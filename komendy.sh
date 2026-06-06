@@ -37,12 +37,11 @@ git reset local~1
 git checkout pushed
 git revert pushed
 
-# 3.1 Cherry-pick Intro
+# 3.1
 git cherry-pick C3 C4 C7
 
 # 3.2
 git rebase -i main~4 --aboveAll
-# Remove C2, move C5 up
 
 # 4.1
 git checkout main
@@ -84,7 +83,7 @@ git checkout two
 git cherry-pick C5 C4 C3 C2
 git branch -f three C2
 
-# 1.1 (Remote)
+# 1.1
 git clone
 
 # 1.2

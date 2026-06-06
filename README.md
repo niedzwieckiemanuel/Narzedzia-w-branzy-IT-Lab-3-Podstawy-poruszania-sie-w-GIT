@@ -1,2 +1,2 @@
-# Narz-dzia-w-bran-y-IT-Lab-3-Podstawy-poruszania-si-w-GIT
+# Narzedzia-w-branzy-IT-Lab-3-Podstawy-poruszania-sie-w-GIT
 description
